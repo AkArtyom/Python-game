@@ -6,4 +6,9 @@
 
 ### Как сыграть?
 
-Достаточно установить папку с игрой и запустить main.py
+Либо скачать проект, установить pygame и запустить main.py, либо прописать следующие команды
+git clone https://github.com/AkArtyom/Python-game
+cd dev
+git chekout dev
+pip install pygame
+python3 main.py
