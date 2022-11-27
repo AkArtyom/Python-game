@@ -7,8 +7,8 @@
 ### Как сыграть?
 
 Достаточно установить папку с игрой и запустить main.py (язык - Python)
-git clone https://github.com/AkArtyom/Python-game '\n'
-cd dev
-git chekout dev
-pip install pygame
-python3 main.py
+git clone https://github.com/AkArtyom/Python-game, 
+cd dev, 
+git chekout dev, 
+pip install pygame, 
+python3 main.py, 
